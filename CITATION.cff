@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: CASE: A Computational Autonomous Systems Environment
+authors:
+  - family-names: Boakye
+    given-names: Jeff
+version: 1.0
+date-released: 2026-01-09
+license: CC-BY-4.0
